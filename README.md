@@ -141,7 +141,7 @@ push to github
 run,
 
 note; replace the first url with the url of your github repo
-e.g i replaced mine to https://github.com/0xchukss/genlayer-explorer.git
+e.g i replaced mine to (https://github.com/CuriQusEth/Genlayer-Builders-Guide-2)
 
  git remote add origin https://github.com/YOUR_USERNAME/repositoryname.git
 git branch -M main
